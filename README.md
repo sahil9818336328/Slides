@@ -2,7 +2,7 @@
 
 ### Simple slider ,goes back and forth just like a carousel .
   
-
+### View my deployed app at :- https://sahil9818336328.github.io/Slides/
 
 # Technologies used: 
 
